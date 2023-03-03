@@ -15,6 +15,13 @@ The parent version will be updated to '3.5.0' as the differential across all thr
 
 ## Tests
 Run the module directly:
+```
 >>> python update_parent_semver.py
+```
 
 If all tests pass, there will be no output.
+
+## Help
+```
+>>> python -c 'import update_parent_semver as ups; help(ups)'
+```
