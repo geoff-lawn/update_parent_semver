@@ -1,5 +1,5 @@
 # update_parent_semver.py
-Update an "owning" parent's SemVer2 version from a group of child products' versions.
+Update an "owning" parent's SemVer2 version from a group of child item's versions.
 
 Useful for situations where you have the need for SemVer2 version management for a group of items each with their own SemVer2 versions.
 
